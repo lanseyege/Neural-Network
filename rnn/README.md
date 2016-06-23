@@ -31,3 +31,15 @@ BLSTMChunk.java
 BLSTMFould.java  
 BLSTMCRF.java  
 BLSTM and BLSTM-CRF for chunking
+
+Input  
+word embeding
+
+output  
+chunking's label
+
+Run  
+nohup java RNNChunk conf/rnn.properties >> res/test1 &
+
+
+
